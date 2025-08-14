@@ -1,0 +1,13 @@
+# documentation/technical_doc.txt
+
+Modules:
+- main.py: CLI entry point
+- salesperson.py: SalesPerson class and sales tracking
+- sale.py: Sale record structure
+- commission_calculator.py: Commission logic
+- report_generator.py: Outputs sales reports
+
+Libraries Used:
+- csv, built-in only
+
+Unit tests: see `tests/test_commissions.py`

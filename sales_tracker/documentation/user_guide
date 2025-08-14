@@ -1,0 +1,5 @@
+# documentation/user_guide.txt
+
+1. Save your sales data in a file named `sales_data.csv` in the `data/` folder.
+2. Run `main.py` and input the path: `data/sales_data.csv`
+3. View commission outputs and performance report in the terminal.

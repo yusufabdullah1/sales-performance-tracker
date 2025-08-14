@@ -1,0 +1,7 @@
+# documentation/requirements.txt
+
+- Python 3.8+
+- CSV file input for sales transactions
+- CLI interface
+- No external libraries
+- File operations, error handling, unit tests
