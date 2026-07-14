@@ -54,4 +54,4 @@ python -m unittest tests/test_commissions.py
 - Standard library only (no external packages)
 
 ## 📞 Author
-CSC 202 - Group 56
+yorabd314@gmail.com
